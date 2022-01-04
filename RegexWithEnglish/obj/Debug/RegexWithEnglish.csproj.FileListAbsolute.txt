@@ -1,0 +1,8 @@
+c:\users\user-050716\documents\visual studio 2013\Projects\RegexWithEnglish\RegexWithEnglish\bin\Debug\RegexWithEnglish.exe.config
+c:\users\user-050716\documents\visual studio 2013\Projects\RegexWithEnglish\RegexWithEnglish\bin\Debug\RegexWithEnglish.exe
+c:\users\user-050716\documents\visual studio 2013\Projects\RegexWithEnglish\RegexWithEnglish\bin\Debug\RegexWithEnglish.pdb
+c:\users\user-050716\documents\visual studio 2013\Projects\RegexWithEnglish\RegexWithEnglish\bin\Debug\AODL.dll
+c:\users\user-050716\documents\visual studio 2013\Projects\RegexWithEnglish\RegexWithEnglish\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\user-050716\documents\visual studio 2013\Projects\RegexWithEnglish\RegexWithEnglish\obj\Debug\RegexWithEnglish.csprojResolveAssemblyReference.cache
+c:\users\user-050716\documents\visual studio 2013\Projects\RegexWithEnglish\RegexWithEnglish\obj\Debug\RegexWithEnglish.exe
+c:\users\user-050716\documents\visual studio 2013\Projects\RegexWithEnglish\RegexWithEnglish\obj\Debug\RegexWithEnglish.pdb
